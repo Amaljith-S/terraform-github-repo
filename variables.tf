@@ -1,5 +1,5 @@
 variable "description" {
-  description = "A description of the repository"
+  description = "A description of the repository-test-1"
   type        = string
 }
 
